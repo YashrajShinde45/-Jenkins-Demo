@@ -8,5 +8,7 @@ public class HelloWorld {
 
         System.out.println("Java program built successfully using Docker Jenkins");
 
+        System.out.println("This is the second automatic build!");
+
     }
 }
